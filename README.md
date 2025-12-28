@@ -56,27 +56,6 @@ A comprehensive **IoT-based Industrial Protection System** designed to monitor a
    - Update app notification
 7. Loop with 2-second delay
 
----
-## Sensor Specifications
-
-### LM-35 Temperature Sensor
-- Operating Voltage: 4-30V
-- Accuracy: +/-0.5C @ 25C
-- Sensitivity: 10mV/C
-- Output: Linear analog voltage
-
-### MQ2 Gas Sensor
-- Operating Voltage: 5V
-- Preheat Duration: 20 seconds
-- Detection: H2, LPG, CH4, CO, Alcohol
-- Output: Analog 0-5V or Digital
-
-### RKI-3100 Fire Sensor
-- Detection Range: 760nm-1100nm (Infrared)
-- Operating Voltage: 3.3-5V
-- Detection Angle: ~60 degrees
-- Output: Digital 0/1
-
 ### DHT22 Humidity Sensor
 - Temperature Range: -40C to +80C
 - Humidity Range: 0-100% RH
