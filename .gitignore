@@ -1,0 +1,83 @@
+# Arduino/IoT Project Ignore Files
+
+# Compiled files
+*.o
+*.a
+*.so
+*.elf
+*.bin
+*.hex
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Arduino IDE
+built/
+.pio
+.pioenvs/
+.piolibdeps/
+
+# PlatformIO
+.platformio/
+build/
+dist/
+libraries/
+test/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# Node/npm
+node_modules/
+npm-debug.log
+
+# Libraries
+libraries/
+
+# Build artifacts
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.~*
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Environment files
+.env
+.env.local
+.env*.local
+
+# Logs
+*.log
+logs/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Blynk
+BlynkAppSettings.json
+
+# Secrets
+secrets.h
+config.local.h
